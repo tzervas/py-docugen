@@ -1,5 +1,10 @@
 # py-docugen
 
+<!-- FLEET-BADGES:BEGIN -->
+[![CI](https://github.com/tzervas/py-docugen/actions/workflows/fleet-ci.yml/badge.svg?branch=main)](https://github.com/tzervas/py-docugen/actions/workflows/fleet-ci.yml?query=branch%3Amain)
+[![Security](https://github.com/tzervas/py-docugen/actions/workflows/fleet-security.yml/badge.svg?branch=main)](https://github.com/tzervas/py-docugen/actions/workflows/fleet-security.yml?query=branch%3Amain)
+<!-- FLEET-BADGES:END -->
+
 Python documentation generator for creating comprehensive documentation from code and schemas.
 
 ## Installation
