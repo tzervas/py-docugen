@@ -3,7 +3,7 @@ name = "py-docugen"
 version = "0.1.0"
 description = "Python documentation generator for creating comprehensive documentation from code and schemas"
 readme = "README.md"
-requires-python = ">=3.9"
+requires-python = ">=3.11"
 dependencies = [
     "jinja2>=3.1.0",
     "pyyaml>=6.0",
